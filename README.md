@@ -23,7 +23,8 @@ We evaluated DIGBUG by leveraging the data from D&C [1] to train a model that cl
   author={Kim, Kisub and Ghatpande, Sankalp, and Liu, Kui and Anil, Koyuncu and Kim, Dongsun and Bissyande, Tegawende F and Klein, Jacques and Le Traon, Yves},
   booktitle={under review},
   year={2020}
-}```
+}
+```
 
 
 [1] A. Koyuncu, T. F. Bissyandé, D. Kim, K. Liu, J. Klein, M. Monperrus, Y. L. Traon, D&c: A divide-and-conquer approach to IR-based bug localization, arXiv:1902.02703 [cs] (2019).
